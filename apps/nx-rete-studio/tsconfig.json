@@ -3,6 +3,18 @@
   "include": [],
   "references": [
     {
+      "path": "../../libs/languages-template"
+    },
+    {
+      "path": "../../libs/languages-javascript"
+    },
+    {
+      "path": "../../libs/core"
+    },
+    {
+      "path": "../../libs/ui"
+    },
+    {
       "path": "./tsconfig.app.json"
     }
   ],
