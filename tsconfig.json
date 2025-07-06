@@ -20,6 +20,9 @@
     },
     {
       "path": "./libs/rete"
+    },
+    {
+      "path": "./libs/area-plugin"
     }
   ]
 }
